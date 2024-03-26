@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\bin\Debug\myql ornek 2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\bin\Debug\myql ornek 2.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\bin\Debug\myql ornek 2.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql ornek 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql ornek 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql_ornek_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql_ornek_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql ornek 2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql ornek 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql ornek 2.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql ornek 2.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\myql ornek 2\myql ornek 2\obj\Debug\myql ornek 2.pdb

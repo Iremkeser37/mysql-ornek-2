@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace myql_ornek_2
+{
+    public partial class Form1 : Form
+    {
+        string baglantıMetin = "Server=locahost;Database=+film_arsiv;uıdroot;Pwd= '';";
+        public Form1()
+        {
+            InitializeComponent();
+        }
+          public void FiilCmbFilmler()
+          {
+
+             using (
+        
+            
+           
+          }
+       
+    }
+}
